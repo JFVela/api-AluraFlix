@@ -20,55 +20,55 @@
         {
             "id": 1,
             "titulo": "Cuándo usar let, var y const?",
-            "url": "https://www.youtube.com/watch?v=PztCEdIJITY",
+            "url": "https://www.youtube.com//embed/PztCEdIJITY",
             "curso": "FRONT END"
         },
         {
             "id": 2,
             "titulo": "¿Qué es JavaScript?",
-            "url": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
+            "url": "https://www.youtube.com//embed/GJfOSoaXk4s",
             "curso": "FRONT END"
         },
         {
             "id": 3,
             "titulo": "Equipo Front End",
-            "url": "https://www.youtube.com/watch?v=rpvrLaBQwgg",
+            "url": "https://www.youtube.com//embed/rpvrLaBQwgg",
             "curso": "FRONT END"
         },
         {
             "id": 4,
             "titulo": "Spring Framework. ¿Qué es?",
-            "url": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
+            "url": "https://www.youtube.com//embed/t-iqt1b2qqk",
             "curso": "BACK END"
         },
         {
             "id": 5,
             "titulo": "¿SQL o NoSQL? ¿Cuál base de datos es mejor?",
-            "url": "https://www.youtube.com/watch?v=8K1PKSqHFRQ",
+            "url": "https://www.youtube.com//embed/8K1PKSqHFRQ",
             "curso": "BACK END"
         },
         {
             "id": 6,
             "titulo": "Simplificando tu código en Java: Conoce los enum",
-            "url": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
+            "url": "https://www.youtube.com//embed/EoPvlE85XAQ",
             "curso": "BACK END"
         },
         {
             "id": 7,
             "titulo": "¿Qué son las Soft Skills?",
-            "url": "https://www.youtube.com/watch?v=vhwspfvI52k",
+            "url": "https://www.youtube.com//embed/vhwspfvI52k",
             "curso": "INNOVACION Y GESTION"
         },
         {
             "id": 8,
             "titulo": "7 Soft Skills más deseadas por las empresas",
-            "url": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
+            "url": "https://www.youtube.com//embed/YhR7Zp8NUzE",
             "curso": "INNOVACION Y GESTION"
         },
         {
             "id": 9,
             "titulo": "¿Qué son las metodologias ágiles?",
-            "url": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
+            "url": "https://www.youtube.com//embed/6N3OkLCfK-0",
             "curso": "INNOVACION Y GESTION"
         }
     ]
